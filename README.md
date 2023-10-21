@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="images/6c40c36ac45f5ddb80867476ab2da2bc-removebg-preview.png" alt="Alternate Text">
+</p>
+
+# Is this a BackD00red HDMI?
+An investigative dive into a perplexing HDMI adapter that raises more questions than it answers. Through hands-on analysis, online research, and digital forensics, this article examines the odd behavior of an HDMI-to-USB adapter that might be more than meets the eye. Whether it's a backdoor or simply bad coding, the journey uncovers multiple red flags that warrant attention. A must-read for anyone interested in hardware security.
+# The beginning
 So there I was, sitting in the office, when a teammate came up to me. She told me she'd bought a new HDMI adapter, but something was off. Rather than functioning like a typical HDMI, it was detected as a USB storage device and prompted her to install some sort of .exe file for a driver.
 
 What piqued my interest was the price. She bought this adapter from Amazon for just $16. Usually, that's the cost of a good, reliable piece of hardware—not the cheap ones that don't even work! Intrigued, I asked if I could borrow it to investigate further. While I'm not a malware analysis specialist, I am a hacker at heart, and I couldn't resist the urge to delve deeper into this mystery.
@@ -89,5 +97,6 @@ The products they were selling primarily revolved around drive hardware. Intrigu
 they also had a section dedicated to USB displays, showing how to install a program named "USMDisplay_windows.exe"—a different name than our initial "MSDisplay_MultiDev_v1.0.0.18.0.exe." Could it be a new version? That's yet to be determined
 ![Alternate Text](./images/Pasted%20image%2020231021193328.png)
 
-###Conclusion
+# Conclusion
+
 While I can't definitively say whether this peculiar HDMI device is connected to malicious actors, its behavior is anything but ordinary. The journey through this labyrinth of oddities leaves us with two likely scenarios: either we're dealing with a backdoored device or the handiwork of inept developers who have resorted to unconventional coding to make a subpar gadget compatible with modern operating systems. In either case, my advice is simple: steer clear of such hardware.
