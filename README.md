@@ -9,7 +9,7 @@ It talked about the possibility of the HDMI being backdoored, and the kicker? It
 
 Next, I plugged the HDMI into my Windows testing machine, and—nothing. No detection, no functionality; it was as if the piece was broken. But then, I had an idea. Maybe the adapter needed a more 'common' setup to show its true colors. So, I grabbed another computer and plugged in the HDMI. Voila! It was detected as a USB drive. 
 
-![[images/Pasted image 20231021173939.png]]
+![[./images/Pasted image 20231021173939.png]]
 
 The content of the drive had files for multiple operating systems: Windows, Mac, and Android. Additionally, there were two PDF readme files—one in English and another in Chinese. That last bit was particularly intriguing.
 
